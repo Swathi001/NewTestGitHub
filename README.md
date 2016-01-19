@@ -1,2 +1,1 @@
-# NewTestGitHub
-Creating second test project
+Created this project to learn git.
